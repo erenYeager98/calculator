@@ -117,6 +117,7 @@ h1{
 ```
 OUTPUT:
 
+![Screenshot_20230126_160146](https://user-images.githubusercontent.com/111277376/214815351-0e7879ab-5a3f-49b9-92cf-64cca5e2a8ae.png)
 
 HTML VALIDATOR:
 
