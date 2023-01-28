@@ -1,22 +1,25 @@
-Step 1:
+# AIM
+To Develop a Simple Calculator using HTML and CSS.
+
+# Step 1:
 Clone the github repository and create Django admin interface.
 
-Step 2:
+# Step 2:
 Change settings.py file to allow request from all hosts.
 
-Step 3:
+# Step 3:
 Use CSS for creating attractive colors.
 
-Step 4:
+# Step 4:
 Write JavaScript program for implementing five different operations.
 
-Step 5:
+# Step 5:
 Validate the HTML and CSS code.
 
-Step 6:
+# Step 6:
 Publish the website in the given URL.
 
-PROGRAM :
+# PROGRAM :
 ```html
 
 <!DOCTYPE html>
@@ -115,10 +118,10 @@ h1{
 </html>
 
 ```
-OUTPUT:
+# OUTPUT:
 
 ![Screenshot_20230126_160146](https://user-images.githubusercontent.com/111277376/214815351-0e7879ab-5a3f-49b9-92cf-64cca5e2a8ae.png)
 
 
-RESULT:
+# RESULT:
 The program for implementing simple calculator using HTML, CSS and JavaScript is executed successfully.
